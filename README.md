@@ -1,6 +1,6 @@
 # Ionic Stencil Conference App
 
-A conference app built with Stencil to demonstrate Ionic
+A resume app built with Stencil to demonstrate Ionic
 
 ## Getting Started
 
